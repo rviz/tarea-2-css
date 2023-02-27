@@ -2,6 +2,10 @@
     font-family: Helvetica; color:#4c4f69;
 }
 
+body{
+    background-color:#eff1f5;
+}
+
 .centrados{
     text-align:center; 
 }
