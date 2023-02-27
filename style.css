@@ -1,0 +1,15 @@
+*{
+    font-family: Helvetica; color:#4c4f69;
+}
+
+.centrados{
+    text-align:center; 
+}
+
+.titulos{
+    font-weight: bold; font-size: 20px;
+}
+
+.texto{
+    padding-left: 3%; padding-right: 3%;
+}
